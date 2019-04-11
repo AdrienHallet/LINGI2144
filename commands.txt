@@ -1,0 +1,4 @@
+echo "____________START OF THE CONNECTION____________"
+whoami
+ls
+echo "_____________END OF THE CONNECTION_____________"
